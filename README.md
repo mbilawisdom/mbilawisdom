@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-
+<--
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Forkcommerce
 - 🌱 I’m currently learning ...
@@ -12,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
